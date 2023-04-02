@@ -1,0 +1,16 @@
+{
+    "prefix": "",
+    "botname": "",
+    "support": "https://discord.gg/",
+    "ghostping":  true,
+    "ownerId": "",
+    "ignore": [
+        ""
+    ],
+    "developer_badge_user_id": [
+        ""
+    ],
+    "staff_badge_user_id": [
+        ""
+    ]
+}
